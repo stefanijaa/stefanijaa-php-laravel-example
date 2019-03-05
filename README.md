@@ -1,4 +1,4 @@
-# ButterCMS Laravel Example
+# Laravel Example
 
 This app uses Blade templates but ButterCMS works with any templating engine like Smarty, Twig, or raw PHP.
 
